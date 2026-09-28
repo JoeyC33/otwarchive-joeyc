@@ -18,7 +18,7 @@ class TagWranglingsController < ApplicationController
 
     if params[:show] == "fandoms"
       @media_names = Media.by_name.pluck(:name)
-      @page_subtitle = t(".page_subtitle")
+      @page_subtitle = t("Test")
     end
 
     type = params[:show].singularize.capitalize
