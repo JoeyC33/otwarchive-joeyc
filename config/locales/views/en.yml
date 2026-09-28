@@ -3068,6 +3068,7 @@ en:
   tag_wranglings:
     index:
       general_resources:
+        page_heading: Wrangling Tools
         ao3_catch_and_release: AO3_Catch_and_Release
         ao3_catch_and_release_html: "%{ao3_catch_and_release_link} - For more information, please see the %{ao3_wrangling_project_faq_link}"
         ao3_wrangling_project_faq: Tag Wrangling AO3 Project FAQ
@@ -3075,11 +3076,11 @@ en:
         current_wrangling_limitations_html: "%{current_wrangling_limitations_link} - Details about current wrangling limitations and policies"
         fandom_and_megafandom_directory: Directory of Fandom & Megafandom Wiki Pages
         fandom_and_megafandom_directory_html: "%{fandom_and_megafandom_directory_link} - All currently available fandom & megafandom wiki pages"
-        fandoms_in_need_of_cowranglers: Fandoms in need of Cowranglers
-        fandoms_in_need_of_cowranglers_html: "%{fandoms_in_need_of_cowranglers_link} - Interested in helping out a fandom in need?"
+        fandoms_in_need_of_cowranglers: Fandoms in need of Cowranglers TEST
+        fandoms_in_need_of_cowranglers_html: "%{fandoms_in_need_of_cowranglers_link} - TEST Interested in helping out a fandom in need?"
         heading: 'Test! Checking if my Github is syncing!! General Wrangling Resources:'
-        otw_slack_chat: OTW Slack Chat
-        otw_slack_chat_html: "%{otw_slack_chat_link} - For more information please see the %{tag_wrangling_slack_tutorial_link}"
+        otw_slack_chat: OTW Slack Chat TEST
+        otw_slack_chat_html: "%{otw_slack_chat_link} - TEST For more information please see the %{tag_wrangling_slack_tutorial_link}"
         tag_wranglers_mailing_list: Tag Wranglers Mailing List Conversations
         tag_wranglers_mailing_list_html: "%{tag_wranglers_mailing_list_link} - Message Archive for the Tagwranglers Mailing List"
         tag_wrangling_bugs: Tag Wrangling Bugs & Troubleshooting
