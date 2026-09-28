@@ -3077,7 +3077,7 @@ en:
         fandom_and_megafandom_directory_html: "%{fandom_and_megafandom_directory_link} - All currently available fandom & megafandom wiki pages"
         fandoms_in_need_of_cowranglers: Fandoms in need of Cowranglers
         fandoms_in_need_of_cowranglers_html: "%{fandoms_in_need_of_cowranglers_link} - Interested in helping out a fandom in need?"
-        heading: 'General Wrangling Resources:'
+        heading: 'Test! Checking if my Github is syncing!! General Wrangling Resources:'
         otw_slack_chat: OTW Slack Chat
         otw_slack_chat_html: "%{otw_slack_chat_link} - For more information please see the %{tag_wrangling_slack_tutorial_link}"
         tag_wranglers_mailing_list: Tag Wranglers Mailing List Conversations
